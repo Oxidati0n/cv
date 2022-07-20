@@ -1,0 +1,19 @@
+body{
+    background-color: burlywood;
+}
+
+hr {
+    border-style: dotted none none;
+    width: 10%;
+    border-color: black;
+    height: 5px;
+    border-width: 5px;
+}
+
+h3 {
+    color: brown;
+}
+
+h1 {
+    color: brown;
+}
